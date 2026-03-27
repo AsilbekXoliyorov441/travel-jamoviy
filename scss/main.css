@@ -37,6 +37,13 @@ header .navbar .nav-links {
   gap: 30px;
 }
 
+<<<<<<< HEAD
 #hero .title {
   color: #000;
+=======
+main .title {
+  color: blue;
+  text-align: center;
+  padding-top: 70px;
+>>>>>>> e37ee6f790027968e6ab9521f1591321ce04e893
 }/*# sourceMappingURL=main.css.map */
