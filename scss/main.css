@@ -3,6 +3,7 @@
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  box-sizing: border-box;
   font-family: sans-serif;
 }
 
@@ -45,6 +46,15 @@ header .navbar a {
 header .navbar .nav-links {
   display: -webkit-box;
   display: -ms-flexbox;
+header .navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .navbar a {
+  color: #1BBC9B;
+}
+header .navbar .nav-links {
   display: flex;
   gap: 30px;
 }
@@ -54,3 +64,6 @@ header .navbar .nav-links {
   font-size: 40px;
 }
 /*# sourceMappingURL=main.css.map */
+#hero .title {
+  color: #000;
+}/*# sourceMappingURL=main.css.map */
