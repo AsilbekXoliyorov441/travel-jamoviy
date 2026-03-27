@@ -3,6 +3,7 @@
   padding: 0;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   box-sizing: border-box;
 =======
   -webkit-box-sizing: border-box;
@@ -11,6 +12,9 @@
 =======
   box-sizing: border-box;
 >>>>>>> 25a0d55082ff16851cd2fc6a28e0bc6bc7251b93
+=======
+  box-sizing: border-box;
+>>>>>>> 114fddd4b28055129ba6f6b6b5897b82864d2a59
   font-family: sans-serif;
 }
 
@@ -35,8 +39,11 @@ header {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 25a0d55082ff16851cd2fc6a28e0bc6bc7251b93
+=======
+>>>>>>> 114fddd4b28055129ba6f6b6b5897b82864d2a59
 header .navbar {
   display: flex;
   align-items: center;
@@ -46,6 +53,7 @@ header .navbar a {
   color: #1BBC9B;
 }
 header .navbar .nav-links {
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -71,10 +79,13 @@ header .navbar .nav-links {
 >>>>>>> 977ca4fa21a2d5aa297992e17e9ebfecfc9aa9bd
 =======
 >>>>>>> 25a0d55082ff16851cd2fc6a28e0bc6bc7251b93
+=======
+>>>>>>> 114fddd4b28055129ba6f6b6b5897b82864d2a59
   display: flex;
   gap: 30px;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -113,3 +124,16 @@ main .title {
   color: greenyellow;
 }/*# sourceMappingURL=main.css.map */
 >>>>>>> 25a0d55082ff16851cd2fc6a28e0bc6bc7251b93
+=======
+.preview-title {
+  color: #50b895;
+  font-size: 34px;
+  transition: all 0.3s linear;
+  margin-top: 300px;
+}
+
+.preview-title:hover {
+  font-size: 40px;
+  color: #2b5748;
+}/*# sourceMappingURL=main.css.map */
+>>>>>>> 114fddd4b28055129ba6f6b6b5897b82864d2a59
