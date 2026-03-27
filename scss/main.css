@@ -38,6 +38,7 @@ header .navbar .nav-links {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #hero .title {
   color: #000;
 =======
@@ -46,4 +47,17 @@ main .title {
   text-align: center;
   padding-top: 70px;
 >>>>>>> e37ee6f790027968e6ab9521f1591321ce04e893
+=======
+.archieve-title {
+  font-size: 20px;
+  color: rgb(0, 136, 255);
+  transition: all 0.3s linear;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.archieve-title:hover {
+  color: red;
+>>>>>>> 214f51a13a0450b667751c8dedf9424b59b26115
 }/*# sourceMappingURL=main.css.map */
