@@ -37,6 +37,7 @@ header .navbar .nav-links {
   gap: 30px;
 }
 
+<<<<<<< HEAD
 .preview-title {
   color: #50b895;
   font-size: 34px;
@@ -47,4 +48,8 @@ header .navbar .nav-links {
 .preview-title:hover {
   font-size: 40px;
   color: #2b5748;
+=======
+#hero .title {
+  color: #000;
+>>>>>>> f967c713472f1746f82e715b9d094e96e78fab71
 }/*# sourceMappingURL=main.css.map */
