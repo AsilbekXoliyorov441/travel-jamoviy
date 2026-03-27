@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"version":3,"sources":["base/_reset.scss","main.css","layout/_header.scss","pages/_search.scss"],"names":[],"mappings":"AAAA;EACE,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uBAAA;ACCF;;ADEA;EACE,qBAAA;ACCF;;ADEA;EACE,gBAAA;ACCF;;ADEA;EACE,iBAAA;EACA,cAAA;EACA,eAAA;ACCF;;ACnBA;EACE,iBAAA;EACA,oBAAA;EACA,4CAAA;ADsBF;ACpBE;EACE,aAAA;EACA,mBAAA;EACA,8BAAA;ADsBJ;ACpBI;EACE,cFUM;ACYZ;ACnBI;EACE,aAAA;EACA,SAAA;ADqBN;;AEpCI;EACI,WAAA;AFuCR","file":"main.css"}
 =======
 {"version":3,"sources":["base/_reset.scss","main.css","layout/_header.scss","pages/_single.scss"],"names":[],"mappings":"AAAA;EACE,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uBAAA;ACCF;;ADEA;EACE,qBAAA;ACCF;;ADEA;EACE,gBAAA;ACCF;;ADEA;EACE,iBAAA;EACA,cAAA;EACA,eAAA;ACCF;;ACnBA;EACE,iBAAA;EACA,oBAAA;EACA,4CAAA;ADsBF;ACpBE;EACE,aAAA;EACA,mBAAA;EACA,8BAAA;ADsBJ;ACpBI;EACE,cFUM;ACYZ;ACnBI;EACE,aAAA;EACA,SAAA;ADqBN;;AEpCI;EACI,WAAA;EACD,kBAAA;EACA,iBAAA;AFuCP","file":"main.css"}
@@ -32,3 +33,6 @@
     "file": "main.css"
 }
 >>>>>>> 977ca4fa21a2d5aa297992e17e9ebfecfc9aa9bd
+=======
+{"version":3,"sources":["base/_reset.scss","main.css","layout/_header.scss","pages/_price.scss"],"names":[],"mappings":"AAAA;EACE,SAAA;EACA,UAAA;EACA,sBAAA;EACA,uBAAA;ACCF;;ADEA;EACE,qBAAA;ACCF;;ADEA;EACE,gBAAA;ACCF;;ADEA;EACE,iBAAA;EACA,cAAA;EACA,eAAA;ACCF;;ACnBA;EACE,iBAAA;EACA,oBAAA;EACA,4CAAA;ADsBF;ACpBE;EACE,aAAA;EACA,mBAAA;EACA,8BAAA;ADsBJ;ACpBI;EACE,cFUM;ACYZ;ACnBI;EACE,aAAA;EACA,SAAA;ADqBN;;AErCA;EACI,kBAAA;AFwCJ","file":"main.css"}
+>>>>>>> 25a0d55082ff16851cd2fc6a28e0bc6bc7251b93
