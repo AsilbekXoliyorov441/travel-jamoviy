@@ -37,7 +37,11 @@ header .navbar .nav-links {
   gap: 30px;
 }
 
-main .title {
+#hero .title {
+  color: #000;
+}
+
+main .single-title {
   color: blue;
   text-align: center;
   padding-top: 70px;
